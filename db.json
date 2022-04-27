@@ -1,5 +1,4 @@
 {
-"db": [ {
    "AllowedVersions": ["010044","010045A"],
    "Players":[
 	  {
@@ -11,5 +10,4 @@
          "PremiumEndBlock":5863020
       }	  
    ]
-} ]
 }

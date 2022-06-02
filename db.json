@@ -3,11 +3,11 @@
    "Players":[
 	  {
 		 "Address":"0x64FB1DBbBAc395B629997962DA25BA02a09FaBF5",
-         "PremiumEndBlock":4599999
+         "PremiumEndBlock":4999999
       },
 	  {
 		 "Address":"0x3f5CFc109A00eC16f4630f0C20E4e72c788B83D0",
-         "PremiumEndBlock":4599999
+         "PremiumEndBlock":4999999
       }	  
    ]
 }
